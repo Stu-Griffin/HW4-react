@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/HW4-react/static/css/main.b2a27da9.chunk.css",
+    "main.js": "/HW4-react/static/js/main.89c5db54.chunk.js",
+    "main.js.map": "/HW4-react/static/js/main.89c5db54.chunk.js.map",
+    "runtime-main.js": "/HW4-react/static/js/runtime-main.85aa77f6.js",
+    "runtime-main.js.map": "/HW4-react/static/js/runtime-main.85aa77f6.js.map",
+    "static/js/2.c6dd0a2d.chunk.js": "/HW4-react/static/js/2.c6dd0a2d.chunk.js",
+    "static/js/2.c6dd0a2d.chunk.js.map": "/HW4-react/static/js/2.c6dd0a2d.chunk.js.map",
+    "index.html": "/HW4-react/index.html",
+    "precache-manifest.2fde6422ac6a1c41b402bd5f400b28de.js": "/HW4-react/precache-manifest.2fde6422ac6a1c41b402bd5f400b28de.js",
+    "service-worker.js": "/HW4-react/service-worker.js",
+    "static/css/main.b2a27da9.chunk.css.map": "/HW4-react/static/css/main.b2a27da9.chunk.css.map",
+    "static/js/2.c6dd0a2d.chunk.js.LICENSE.txt": "/HW4-react/static/js/2.c6dd0a2d.chunk.js.LICENSE.txt",
+    "static/media/comment.svg": "/HW4-react/static/media/comment.0ec68f32.svg",
+    "static/media/gender-anonim.svg": "/HW4-react/static/media/gender-anonim.2da83f11.svg",
+    "static/media/gender-man.svg": "/HW4-react/static/media/gender-man.037e22c9.svg",
+    "static/media/gender-woman.svg": "/HW4-react/static/media/gender-woman.08d6db10.svg",
+    "static/media/likes.svg": "/HW4-react/static/media/likes.70ebbcd1.svg",
+    "static/media/main-page.jpg": "/HW4-react/static/media/main-page.b1f075e5.jpg",
+    "static/media/repost.svg": "/HW4-react/static/media/repost.10951a97.svg",
+    "static/media/share.svg": "/HW4-react/static/media/share.3df4d79c.svg",
+    "static/media/third.jpg": "/HW4-react/static/media/third.2605ad4e.jpg",
+    "static/media/tick.svg": "/HW4-react/static/media/tick.4ee74cc7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.85aa77f6.js",
+    "static/js/2.c6dd0a2d.chunk.js",
+    "static/css/main.b2a27da9.chunk.css",
+    "static/js/main.89c5db54.chunk.js"
+  ]
+}
