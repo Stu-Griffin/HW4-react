@@ -4,9 +4,8 @@ header {
 ul {
     display: flex;
     justify-content: space-around;
-    color: white;
 }
 a {
-    color: white;
+    color: black;
     text-decoration-line: none;
 }
