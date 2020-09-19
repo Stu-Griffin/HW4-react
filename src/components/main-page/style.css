@@ -1,0 +1,11 @@
+img {
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 5%;
+    border: 1px solid black;
+    border-radius: 44px;
+}
+.text {
+    width: 90%;
+    margin-left: 5%;
+}
