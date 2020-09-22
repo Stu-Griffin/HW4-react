@@ -10,37 +10,43 @@ const contacts = [{
     lastName: "Стинсовський",
     phone: "+380956319521",
     gender: "male",
-    link: "Барней-Стинсовський"
+    link: "Барней-Стинсовський",
+    age: 25
 }, {
     firstName: "Робін",
     lastName: "Щербатська",
     phone: "+380931460123",
     gender: "female",
-    link: "Робін-Щербатська"
+    link: "Робін-Щербатська",
+    age: 46
 }, {
     firstName: "Анонімний",
     lastName: "Анонімус",
     gender: "anonim",
     phone: "+380666666666",
-    link: "Анонімний-Анонімус"
+    link: "Анонімний-Анонімус",
+    age: "......."
 }, {
     firstName: "Лілія",
     lastName: "Олдровна",
     phone: "+380504691254",
     gender: "female",
-    link: "Лілія-Олдровна"
+    link: "Лілія-Олдровна",
+    age: 19
 }, {
     firstName: "Маршен",
     lastName: "Еріксонян",
     phone: "+380739432123",
     gender: "male",
-    link: "Маршен-Еріксонян"
+    link: "Маршен-Еріксонян",
+    age: 15
 }, {
     firstName: "Теодор",
     lastName: "Мотсбес",
     phone: "+380956319521",
     gender: "male",
-    link: "Теодор-Мотсбес"
+    link: "Теодор-Мотсбес",
+    age: 59
 }];
 class Contracts extends Component {
     state = {
@@ -92,6 +98,8 @@ class Contracts extends Component {
                                             <DopInf
                                                 gender = {el.gender}
                                                 phone = {el.phone}
+                                                age = {el.age}
+                                                name = {el.firstName}
                                             />
                                         </Route>
                                     </Switch>

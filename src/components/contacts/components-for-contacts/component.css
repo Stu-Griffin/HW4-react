@@ -46,3 +46,23 @@ section {
 h4 {
     padding-top: 0.5rem;
 }
+
+/*dop inf*/
+.dopInf-box {
+    border: 1px solid black;
+    margin: 1rem;
+    padding: 1rem;
+}
+.me {
+    background-color: darkcyan;
+    margin-right: 3rem;
+}
+.answer {
+    background-color: skyblue;
+    margin-left: 3rem;
+} 
+.chat {
+    border: 1px solid black;
+    margin: 0.5rem;
+    padding: 0.5rem;
+}
